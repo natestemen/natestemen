@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm `Nat(e|han|haniel)` 👋🏻, but mostly nate
 
-<!--
-**natestemen/natestemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Here's a pic of me going real real fast. One might say I'm zooming.
+<img src="zooming.png"
+     alt="heres a pic of me all blurred like im going real real fast"
+     width="300"
+     style="float: right; margin-left:20px"> -->
 
-Here are some ideas to get you started:
+I like to:
+ - 🎵 listen to music
+ - 🛀🏻 this is supposed to be relaxing, I don't just like bathing
+ - 🚵🏻‍♀️ riding my bike
+ - 🧮 math
+ - 👩🏼‍💻 this looks more like me than the "man technologist"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like thinking about education, privacy, and what to do with my life. Still working on all of those, but I'm trying.
+
+I currently work at [Overleaf](https://www.overleaf.com) as a \~s o f t\~ware dev, but I will be going to the University of Waterloo starting fall 2020 to start a PhD in quantum information. We'll see if that brings me closer to the things I wanna do 😛.
+
+
+<small>
+my pronouns are he/they
+</small>

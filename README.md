@@ -9,6 +9,6 @@ I like to:
 
 I like thinking about education, privacy, and what to do with my life. Still working on all of those, but I'm trying.
 
-I'm a PhD student at the University of Waterloo in the applied math department working with [Joel Wallman](https://services.iqc.uwaterloo.ca/people/profile/jwallman/) on quantum computing.
+I'm a PhD student at the University of Waterloo in the applied math department.
 
 my pronouns are he/they

@@ -9,6 +9,6 @@ I like to:
 
 I like thinking about quantum things, education, privacy, and what to do with my life. Still working on all of those, but it's a process... right?
 
-Oh, I'm also PhD student at the University of Waterloo in the applied math department and I work part time as a content development specialist for [Overleaf](https://overleaf.com).
+When I'm not doing those things, I work as a "member of technical staff" at [Unitary Fund](https://unitary.fund).
 
 my pronouns are he/they
